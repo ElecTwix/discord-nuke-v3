@@ -18,7 +18,7 @@ Changing Configs in config.json
 | ban      | true      | will bot gonna ban people |
 | removeperm | true      | will bot remove people roles |
 | deletechannels | true      | will bot delete all channels |
-| command | nuke      | command that will trigger nuke |
+| command | "nuke"      | command that will trigger nuke |
 
 Step 3
 
