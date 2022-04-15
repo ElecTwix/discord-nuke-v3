@@ -1,0 +1,7 @@
+{
+    "token": "token here",
+    "ban": true,
+    "removeperm": true,
+    "deletechannels" : true,
+    "command": "nuke"
+}
